@@ -1,1 +1,3 @@
 # BELL-RU
+
+GIT_AUTHOR_DATE="2026-02-11 10:00:00" GIT_COMMITTER_DATE="2026-02-11 10:00:00" git commit -m "to store files"
